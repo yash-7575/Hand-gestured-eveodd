@@ -2,7 +2,7 @@
 
 A computer vision application that detects hand gestures and counts extended fingers in real-time, indicating whether the count is even or odd. Built with OpenCV and MediaPipe.
 
-![Hand Gesture Counter Demo](https://github.com/ajena555/Hand-gestured-eveodd/readme/screenshot.png)
+![Hand Gesture Counter Demo](https://github.com/ajena555/Hand-gestured-eveodd/main/screenshot.png)
 
 ## Features
 
